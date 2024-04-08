@@ -1,7 +1,7 @@
 # capstoneModule2
 Capstone Project Module 2, JCDSOL-013(B), Roberto Benedict
 
-<b>Deskripsi</b> <br/>
+## Deskripsi
 Proyek python dalam ipynb ini merupakan proses data cleaning dan analisa untuk menjawab masalah pada bisnis NYC TLC.
 
 ## Pernyataan Masalah
