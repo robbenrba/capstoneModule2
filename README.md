@@ -21,16 +21,10 @@ Sebagai *data scientist*, adapun pertanyaan yang penting untuk dijawab untuk rek
 ## Alur Pengolahan Data
 Berikut uraian alur program ipynb.
 1. Data load dan basic info 
-<br/>
 2. Data understanding
-<br/>
 3. Data cleaning
-<br/>
 4. Data analysis
-<br/>
 5. Penarikan kesimpulan dari insight yang didapat
-<br/>
-<br/>
 
 ## Kesimpulan
 1. Pola perilaku pelanggan yang menyebabkan kurang atau optimalnya pendapatan yang diperoleh adalah :
