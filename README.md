@@ -37,19 +37,15 @@ Berikut uraian alur program ipynb.
 
 ## Kesimpulan
 1. Pola perilaku pelanggan yang menyebabkan kurang atau optimalnya pendapatan yang diperoleh adalah :
-<br/>
-2. Strategi operasional logistik dalam mengatasi kesediaan armada pada waktu, tempat, maupun rute populer termasuk :
-<br/>
-Distribusi driver yang baik untuk waktu, tempat, dan rute dapat meningkatkan kesediaan armada.
+    * Sudah terdapat kurang lebih setengah rute pelanggan yang tergolong populer menurut analisa RFM.
+3. Strategi operasional logistik dalam mengatasi kesediaan armada pada waktu, tempat, maupun rute populer termasuk :
+    * Distribusi driver yang baik untuk waktu, tempat, dan rute dapat meningkatkan kesediaan armada.
 
 ## Rekomendasi
 1. Fokus pada karakteristik rute pelanggan dengan label RFM loyal dan best customer. Customer di sini dianggap pelanggan yang membeli rute dari dan ke Borough tertentu.
-<br/>
 2. Distribusi driver dapat dimanage dengan mempertimbangkan hasil strategi operasional dan bekerja-sama dengan departemen logistik operasional, marketing, dan BI.
-<br/>
 3. Meninjau kemungkinan human error pada input data.
-<br/>
-3. Meninjau kemungkinan machine error pada proses update database atau proses forward ke server.
-<br/>
+4. Meninjau kemungkinan machine error pada proses update database atau proses forward ke server.
+
 <br/>
 Copyright &copy; 2024, Roberto Benedict.
