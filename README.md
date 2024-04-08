@@ -18,11 +18,8 @@ Sebagai *data scientist*, adapun pertanyaan yang penting untuk dijawab untuk rek
 2. TLC New York City
 3. Driver
 
-<br/>
-<br/>
 ## Alur Pengolahan Data
 Berikut uraian alur program ipynb.
-<br/>
 1. Data load dan basic info 
 <br/>
 2. Data understanding
